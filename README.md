@@ -21,7 +21,7 @@ Printar na tela o resultado do cálculo​
 
 Testes​
 
-<img src="/calculadora_imc/print.png" alt="Tela de cadatro" width='200'> 
+<img src="/calculadora_imc/print.png" alt="rint da aplicação rodando" width='200'> 
 
 
 
