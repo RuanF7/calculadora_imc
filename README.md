@@ -21,7 +21,7 @@ Printar na tela o resultado do cálculo​
 
 Testes​
 
-<img src="/print.png" alt="rint da aplicação rodando" width='200'> 
+<img src="/print.png" alt="rint da aplicação rodando" width='400'> 
 
 
 
